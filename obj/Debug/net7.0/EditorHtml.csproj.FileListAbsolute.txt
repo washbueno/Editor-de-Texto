@@ -1,0 +1,15 @@
+C:\cursocsharp\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+C:\cursocsharp\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+C:\cursocsharp\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+C:\cursocsharp\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+C:\cursocsharp\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.AssemblyReference.cache
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+C:\cursocsharp\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
